@@ -1,0 +1,46 @@
+{
+  "floor1": [
+    {
+      "room": "101",
+      "vacant": "closed",
+      "author" : "Bobby Jean"
+    },
+    {
+      "room": "102",
+      "vacant": "closed",
+      "author" : "Marketing Team"
+    },
+    {
+      "room": "103",
+      "vacant": "open",
+      "author" : "Avaliable for use"
+    },
+    {
+      "room": "104",
+      "vacant": "closed",
+      "author" : "Johnnie B"
+    }
+  ],
+  "floor2": [
+    {
+      "room": "201",
+      "vacant": "open",
+      "author" : "Avaliable for use"
+    },
+    {
+      "room": "202",
+      "vacant": "closed",
+      "author" : "Bob Saget"
+    },
+    {
+      "room": "203",
+      "vacant": "open",
+      "author" : "Avaliable for use"
+    },
+    {
+      "room": "204",
+      "vacant": "closed",
+      "author" : "Was set on fire"
+    }
+  ]
+}
